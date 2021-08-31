@@ -195,7 +195,7 @@ main {
 
 .sucess-message span {
   display: block;
-  padding: 250px 20px;
+  height: 50%;
   text-align: center;
   font-family: "Roboto", sans-serif;
 }
