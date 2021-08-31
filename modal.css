@@ -191,6 +191,8 @@ main {
 .sucess-message {
   width: 100%;
   display: none;
+  flex-direction: column;
+  justify-content: flex-end;
 }
 
 .sucess-message span {
